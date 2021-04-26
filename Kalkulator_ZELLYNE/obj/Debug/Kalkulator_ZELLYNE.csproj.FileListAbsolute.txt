@@ -1,0 +1,9 @@
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\bin\Debug\Kalkulator_ZELLYNE.exe.config
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\bin\Debug\Kalkulator_ZELLYNE.exe
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\bin\Debug\Kalkulator_ZELLYNE.pdb
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\obj\Debug\Kalkulator_ZELLYNE.csprojResolveAssemblyReference.cache
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\obj\Debug\Kalkulator_ZELLYNE.Form1.resources
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\obj\Debug\Kalkulator_ZELLYNE.Properties.Resources.resources
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\obj\Debug\Kalkulator_ZELLYNE.csproj.GenerateResource.Cache
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\obj\Debug\Kalkulator_ZELLYNE.exe
+D:\c#\Kalkulator_ZELLYNE\Kalkulator_ZELLYNE\obj\Debug\Kalkulator_ZELLYNE.pdb
